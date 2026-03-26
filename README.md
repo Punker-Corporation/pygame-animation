@@ -1,3 +1,5 @@
+tiny animation i made
+
 i declared a bunch of things in the first lines;
 then created the character usin x and y dots "torso_top_y = stick_y - 28", "torso_bottom_y = stick_y + 10" and connecting the dots;
 made the character move using "if stick_x < target_x:";
