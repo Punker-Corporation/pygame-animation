@@ -35,6 +35,7 @@ poster_visible = False
 poster_display_start = None
 poster_message_duration = 3000
 dance_frame_duration = 220
+hii = 0
 
 while running:
     for event in pygame.event.get():
@@ -208,3 +209,4 @@ while running:
     clock.tick(24)
 
 pygame.quit()
+
